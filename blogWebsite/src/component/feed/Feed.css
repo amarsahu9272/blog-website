@@ -1,0 +1,18 @@
+.feeds {
+    display: flex;
+    
+}
+
+.feed {
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    margin-left: 120px;
+    /* border-right: 1px solid gainsboro; */
+    overflow-y: scroll;
+}
+.feed::-webkit-scrollbar{
+    display: none;
+
+}
