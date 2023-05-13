@@ -13,7 +13,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Runs the app in the development mode.\
 Open [http://localhost:5000](http://localhost:5000) to view it in your terminal.
 
-### `Sreenshots`
+### `video & Sreenshots`
+
+https://github.com/amarsahu9272/blog-website/assets/84452853/8c88c584-a8ed-4870-9cd4-cc93a1208a6d
+
 ![Screenshot (122)](https://github.com/amarsahu9272/blog-website/assets/84452853/c6b70c9d-d355-41c4-b472-80ba4ee8d92d)
 ![Screenshot (123)](https://github.com/amarsahu9272/blog-website/assets/84452853/bf715991-1e82-4bf2-84c7-d9e464f19231)
 ![Screenshot (124)](https://github.com/amarsahu9272/blog-website/assets/84452853/eedb27b7-6369-4a01-af2d-7aae6108ea9f)
